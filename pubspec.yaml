@@ -1,0 +1,138 @@
+name: we_read
+description: A new Flutter project.
+
+version: 1.1.2+15
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter 
+  cupertino_icons: ^0.1.2
+  provider: ^4.0.2
+  rxdart: ^0.23.1
+  shared_preferences: ^0.5.6
+  cloud_firestore: ^0.13.0
+  firebase_auth: ^0.15.3
+  flutter_icons: ^1.0.0
+  in_app_purchase: ^0.3.1
+  purchases_flutter: ^1.0.4
+
+  bloc:
+  flutter_bloc:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.3"
+
+flutter_icons:
+  android: true 
+  ios: true
+  image_path_android: "assets/icon/icon.png"
+  image_path_ios: "assets/icon/icon-ios.png"
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Baskerville
+      fonts:
+        - asset: assets/fonts/Baskervville.ttf
+    - family: Cabin
+      fonts:
+        - asset: assets/fonts/Cabin.ttf
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo.ttf
+    - family: Caveat
+      fonts:
+        - asset: assets/fonts/Caveat.ttf
+    - family: Courier
+      fonts:
+        - asset: assets/fonts/CourierPrime.ttf
+    - family: GreatVibes
+      fonts:
+        - asset: assets/fonts/GreatVibes.ttf
+    - family: IMFell
+      fonts:
+        - asset: assets/fonts/IMFell.ttf
+    - family: PermanentMarker
+      fonts:
+        - asset: assets/fonts/PermanentMarker.ttf
+    - family: PTSerif
+      fonts: 
+        - asset: assets/fonts/PTSerif.ttf
+    - family: Satisfy
+      fonts:
+        - asset: assets/fonts/Satisfy.ttf
+    - family: Comfortaa
+      fonts:
+        - asset: assets/fonts/Comfortaa.ttf
+    - family: CrimsonText
+      fonts:
+        - asset: assets/fonts/CrimsonText.ttf
+    - family: DancingScript
+      fonts: 
+        - asset: assets/fonts/DancingScript.ttf
+    - family: Galada
+      fonts:
+        - asset: assets/fonts/Galada.ttf
+    - family: IndieFlower
+      fonts:
+        - asset: assets/fonts/IndieFlower.ttf
+    - family: JosefinSans
+      fonts:
+        - asset: assets/fonts/JosefinSans.ttf
+    - family: Lacquer
+      fonts: 
+        - asset: assets/fonts/Lacquer.ttf
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/Lora.ttf
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat.ttf
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans.ttf
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand.ttf
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway.ttf
+
+  assets:
+    - assets/images/
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
